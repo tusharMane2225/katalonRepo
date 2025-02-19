@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Appointment suite,,,,19-02-2025 14:07:29,19-02-2025 14:07:30,1.040s,ERROR
+,,,,,,,
+Test Cases/Make Appointment/Make test appointment,,,,19-02-2025 14:07:30,19-02-2025 14:07:30,0.027s,ERROR
+,,,,,,,
+Test Cases/Make Appointment/Login with Invalid Password,,,,19-02-2025 14:07:30,19-02-2025 14:07:30,0.014s,ERROR
+,,,,,,,
+Test Cases/Make Appointment/Login with Valid Password,,,,19-02-2025 14:07:30,19-02-2025 14:07:30,0.009s,ERROR

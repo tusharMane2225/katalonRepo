@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify output message value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>388ba045-0856-40d3-b275-d92388ccc53f</testCaseGuid>
+   <variable>
+      <defaultValue>'Test Message'</defaultValue>
+      <description></description>
+      <id>672f87cd-0977-442d-af72-198a8af8ada8</id>
+      <masked>false</masked>
+      <name>testMessage</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa685b05-f9a4-4378-82f7-47557940111c</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>

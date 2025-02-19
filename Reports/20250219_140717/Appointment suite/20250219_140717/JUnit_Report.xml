@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Appointment suite" time="1.04" tests="3" failures="0" errors="3">
+   <testsuite name="Appointment suite" tests="3" failures="0" errors="3" time="1.04" skipped="0" timestamp="19-02-2025T14:07:29" hostname="sneha - Snehal" id="Test Suites/Appointment suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\sneha\\git\\katalonRepo\\Reports\\20250219_140717\\Appointment suite\\20250219_140717"/>
+         <property name="logFiles" value="C:\\Users\\sneha\\git\\katalonRepo\\Reports\\20250219_140717\\Appointment suite\\20250219_140717\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="sneha - Snehal"/>
+         <property name="hostAddress" value="192.168.180.232"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+      </properties>
+      <testcase name="Test Cases/Make Appointment/Make test appointment" time="0.027" classname="Test Cases/Make Appointment/Make test appointment" status="ERROR">
+         <error type="ERROR" message="Test Cases/Make Appointment/Make test appointment has ERROR(s).&#xa;Reason:&#xa;java.nio.file.AccessDeniedException: "/>
+         <system-out><![CDATA[19-02-2025T14:07:30 - [TEST_CASE][ERROR] - Test Cases/Make Appointment/Make test appointment: Test Cases/Make Appointment/Make test appointment has ERROR(s).
+Reason:
+java.nio.file.AccessDeniedException:]]></system-out>
+         <system-err><![CDATA[19-02-2025T14:07:30 - [TEST_CASE][ERROR] - Test Cases/Make Appointment/Make test appointment: Test Cases/Make Appointment/Make test appointment has ERROR(s).
+Reason:
+java.nio.file.AccessDeniedException:]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Make Appointment/Login with Invalid Password" time="0.014" classname="Test Cases/Make Appointment/Login with Invalid Password" status="ERROR">
+         <error type="ERROR" message="Test Cases/Make Appointment/Login with Invalid Password has ERROR(s).&#xa;Reason:&#xa;java.nio.file.AccessDeniedException: "/>
+         <system-out><![CDATA[19-02-2025T14:07:30 - [TEST_CASE][ERROR] - Test Cases/Make Appointment/Login with Invalid Password: Test Cases/Make Appointment/Login with Invalid Password has ERROR(s).
+Reason:
+java.nio.file.AccessDeniedException:]]></system-out>
+         <system-err><![CDATA[19-02-2025T14:07:30 - [TEST_CASE][ERROR] - Test Cases/Make Appointment/Login with Invalid Password: Test Cases/Make Appointment/Login with Invalid Password has ERROR(s).
+Reason:
+java.nio.file.AccessDeniedException:]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Make Appointment/Login with Valid Password" time="0.009" classname="Test Cases/Make Appointment/Login with Valid Password" status="ERROR">
+         <error type="ERROR" message="Test Cases/Make Appointment/Login with Valid Password has ERROR(s).&#xa;Reason:&#xa;java.nio.file.AccessDeniedException: "/>
+         <system-out><![CDATA[19-02-2025T14:07:30 - [TEST_CASE][ERROR] - Test Cases/Make Appointment/Login with Valid Password: Test Cases/Make Appointment/Login with Valid Password has ERROR(s).
+Reason:
+java.nio.file.AccessDeniedException:]]></system-out>
+         <system-err><![CDATA[19-02-2025T14:07:30 - [TEST_CASE][ERROR] - Test Cases/Make Appointment/Login with Valid Password: Test Cases/Make Appointment/Login with Valid Password has ERROR(s).
+Reason:
+java.nio.file.AccessDeniedException:]]></system-err>
+      </testcase>
+      <system-out><![CDATA[19-02-2025T14:07:29 - [TEST_SUITE][ERROR] - Appointment suite: Test Cases/Make Appointment/Make test appointment has ERROR(s).
+Reason:
+java.nio.file.AccessDeniedException:]]></system-out>
+      <system-err><![CDATA[19-02-2025T14:07:29 - [TEST_SUITE][ERROR] - Appointment suite: Test Cases/Make Appointment/Make test appointment has ERROR(s).
+Reason:
+java.nio.file.AccessDeniedException:]]></system-err>
+   </testsuite>
+</testsuites>

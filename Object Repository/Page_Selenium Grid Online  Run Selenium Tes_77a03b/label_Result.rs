@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Result</name>
+   <tag></tag>
+   <elementGuidId>fda7c52e-dce8-4d15-b8d9-dc725689feab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='user-message']/label)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Result:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>231e4a6f-6ac7-4e14-b93c-237547637870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-semibold text-black text-size-15</value>
+      <webElementGuid>24552350-e002-4a95-a7d7-4a7cf363fb3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Result: </value>
+      <webElementGuid>48fccf09-5b24-47b1-b357-c134d138aab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;mt-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-full px-15 smtablet:mt-20&quot;]/div[@class=&quot;mt-80 rounded&quot;]/div[@class=&quot;input-body px-10 py-20&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-4/12 smtablet:w-full rigth-input&quot;]/div[@id=&quot;user-message&quot;]/label[@class=&quot;font-semibold text-black text-size-15&quot;]</value>
+      <webElementGuid>1dcc0121-a5cc-45fd-bc42-ae4f1e0eaaf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='user-message']/label)[2]</value>
+      <webElementGuid>d7b6bd5b-4ec2-43fd-bb9b-729731b18e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Sum'])[1]/following::label[1]</value>
+      <webElementGuid>079c929e-1a18-4b5c-bd2a-c969aa30c9ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Two Input Fields'])[1]/following::label[1]</value>
+      <webElementGuid>628b3967-1005-4dee-96b4-f16c6a0a20a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products &amp; Features'])[1]/preceding::label[1]</value>
+      <webElementGuid>d86def3a-2585-44c0-9ce5-ad9f8cb66b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing Cloud'])[2]/preceding::label[1]</value>
+      <webElementGuid>04abc59d-e563-4d49-af78-e2f103971b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Result:']/parent::*</value>
+      <webElementGuid>77051d8c-974b-428c-8435-7be3d9d69e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/label</value>
+      <webElementGuid>56479b13-cbc7-4e60-90c8-63df3dcbc749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Result: ' or . = 'Result: ')]</value>
+      <webElementGuid>0120d39a-299c-4a86-8db6-673d00277767</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
