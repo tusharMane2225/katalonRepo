@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Place Holder for Single Message field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22d6fcf6-00c8-4c62-a0ba-c987a8767d63</testCaseGuid>
+</TestCaseEntity>

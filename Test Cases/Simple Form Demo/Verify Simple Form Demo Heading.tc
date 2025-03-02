@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Simple Form Demo Heading</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ad86da4-f961-47a5-87cd-5f9aec76e00a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>697423fc-8d86-452c-8a77-121b66b4cc9c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Simple Form Demo'</defaultValue>
+      <description></description>
+      <id>697423fc-8d86-452c-8a77-121b66b4cc9c</id>
+      <masked>false</masked>
+      <name>simpleFormDemoHeading</name>
+   </variable>
+</TestCaseEntity>

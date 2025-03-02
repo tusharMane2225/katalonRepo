@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify with invalid input for get sum</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9b412e2-a2b2-4dcd-8ca1-f739de96b5fe</testCaseGuid>
+   <variable>
+      <defaultValue>'Entered value is not a number'</defaultValue>
+      <description></description>
+      <id>be30d00d-0f66-4575-95c2-14c196d2b7b8</id>
+      <masked>false</masked>
+      <name>notANumberMessage</name>
+   </variable>
+</TestCaseEntity>
